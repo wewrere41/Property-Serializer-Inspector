@@ -8,8 +8,8 @@
 
 - ### Doesn't support prefabs.
 
-##Usage examples
-![Alt text](Assets\Screenshots\Image.png "Image0")
-![Alt text](Assets\Screenshots\Image1.png "Image0")
-![Alt text](Assets\Screenshots\Image2.png "Image0")
+## Usage examples
+![Alt text](Assets/Screenshots/Image.png "Image0" )
+![Alt text](Assets/Screenshots/Image1.png "Image0")
+![Alt text](Assets/Screenshots/Image2.png "Image0")
 
