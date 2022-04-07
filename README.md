@@ -7,7 +7,7 @@
 ## ⚠ Note
 
 - ### Doesn't support prefabs.
-
+- ### Doesn't support undo.
 ## Usage examples
 ![Alt text](Assets/Screenshots/Image.png "Image0" )
 ![Alt text](Assets/Screenshots/Image1.png "Image0")
